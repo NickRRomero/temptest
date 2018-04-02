@@ -86,7 +86,7 @@ pluginBundle {
 
     plugins {
         markdownConfluenceGradlePlugin {
-            id = 'com.github.qwazer.markdown-confluence'
+            id = 'com.github.NickRRomero.temptest'
             displayName = 'Markdown Confluence'
         }
     }
